@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291091125672679585/565714c0f24b48008bfb4629358853a3/artifacts
+end_time: 1763237140342
+entry_point_name: ''
+experiment_id: '291091125672679585'
+lifecycle_stage: active
+run_id: 565714c0f24b48008bfb4629358853a3
+run_name: amusing-squirrel-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763237099216
+status: 3
+tags: []
+user_id: root
