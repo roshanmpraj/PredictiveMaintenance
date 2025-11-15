@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291091125672679585/597659cf5bf9488dafc01743e4662b63/artifacts
+end_time: 1763237305368
+entry_point_name: ''
+experiment_id: '291091125672679585'
+lifecycle_stage: active
+run_id: 597659cf5bf9488dafc01743e4662b63
+run_name: loud-hound-964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763237266241
+status: 3
+tags: []
+user_id: root
