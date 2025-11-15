@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291091125672679585/c34d569f61394d1fa8c543ca50b110de/artifacts
+end_time: 1763229827314
+entry_point_name: ''
+experiment_id: '291091125672679585'
+lifecycle_stage: active
+run_id: c34d569f61394d1fa8c543ca50b110de
+run_name: classy-tern-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763229808345
+status: 3
+tags: []
+user_id: root

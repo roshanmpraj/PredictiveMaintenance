@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291091125672679585/1e8317c1c98544129bc63348bc0f31fe/artifacts
+end_time: 1763229648290
+entry_point_name: ''
+experiment_id: '291091125672679585'
+lifecycle_stage: active
+run_id: 1e8317c1c98544129bc63348bc0f31fe
+run_name: vaunted-roo-151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763229625796
+status: 3
+tags: []
+user_id: root
