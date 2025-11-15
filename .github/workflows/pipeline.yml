@@ -3,7 +3,7 @@ name: Predictive Maintenance ML Pipeline
 on:
   push:
     branches:
-      - main  # Automatically triggers on push to the main branch
+      - main
 
 jobs:
 
@@ -57,4 +57,12 @@ jobs:
     needs: [model-training, data-prep, register-dataset]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions
+      - uses: actions/checkout@v3
+
+      - name: Install Dependencies
+        run: pip install -r Predictive_Maintenance/requirements.txt
+
+      - name: Deploy to Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: python Predictive_Maintenance/deployment/hosting.py
