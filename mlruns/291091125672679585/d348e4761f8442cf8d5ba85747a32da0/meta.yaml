@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/291091125672679585/d348e4761f8442cf8d5ba85747a32da0/artifacts
+end_time: 1763236424856
+entry_point_name: ''
+experiment_id: '291091125672679585'
+lifecycle_stage: active
+run_id: d348e4761f8442cf8d5ba85747a32da0
+run_name: exultant-sponge-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763236381699
+status: 3
+tags: []
+user_id: root

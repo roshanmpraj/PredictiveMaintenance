@@ -7,6 +7,6 @@ api.upload_folder(
     # replace with your repoid
     repo_id="Roshanmpraj/PredictiveMaintenance",          # the target repo
 
-    repo_type="space",                      # dataset, model, or space
-    path_in_repo="",                          # optional: subfolder path inside the repo
+    repo_type="space",                    
+    path_in_repo="",                         
 )
